@@ -1,5 +1,5 @@
 - Olá! Me chamo Ronaldo Souza Gomides!
-- Sou professor de História, Pensamento Computacional, Robótica e Edutech.
+- Sou professor de História, Pensamento Computacional, Robótica e Edutech - Games e programação.
 - Atualmente desenvolvo minhas atividades nos seguintes espaços:
 - Colégio Estadual Santa Clara EFMPN e Colégio Estadual do Campo de Paz - EFM
 <!---
